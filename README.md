@@ -12,7 +12,6 @@
   <a href="https://github.com/dkden7e" target="_blank"><img src="https://img.shields.io/badge/Github-@dkden7e-%23181717?logo=github&style=for-the-badge" alt="Github"></a>
   </div>
 </p>
-<p align="center"><a href="https://github.com/dkden7e" target="_blank"><img src="https://komarev.com/ghpvc/?username=dkden7e&color=brightgreen" alt=""></a></p>
 
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Lenguajes y tecnologías (presente):</h3>
@@ -78,6 +77,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dkden7e&layout=compact&custom_title=Lenguajes%20más%20usados"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkden7e&layout=compact&custom_title=Lenguajes%20más%20usados" alt="Stats"></a>
   <br><br>
   <a href="https://wakatime.com/@dkden7e"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dkden7e&layout=compact&theme=synthwave&v=2" alt="Stats"></a>
-
-
 </div>
+
+<br><br><br>
+<p align="center"><a href="https://github.com/dkden7e" target="_blank"><img src="https://komarev.com/ghpvc/?username=dkden7e&color=brightgreen" alt=""></a></p>
