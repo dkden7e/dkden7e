@@ -75,6 +75,12 @@
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> </a>
 <!--  Carbon  -->
   <a href="https://github.com/carbon-language/carbon-lang" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" alt="Carbon" height="35"/> </a>
+<!--  Hadoop  -->
+  <a href="https://github.com/apache/hadoop" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" height="35"/> </a>
+<!--  Spark  -->
+  <a href="https://github.com/apache/spark" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" height="35"/> </a>
+<!--  Scala  -->
+  <a href="https://github.com/scala/scala" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" alt="Scala" height="35"/> </a>
 </p>
 
 <div align="center">
