@@ -80,7 +80,7 @@
 <!--  Spark  -->
   <a href="https://github.com/apache/spark" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" height="35"/> </a>
 <!--  Scala  -->
-  <a href="https://github.com/scala/scala" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" alt="Scala" height="35"/> </a>
+  <a href="https://github.com/scala/scala" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" alt="Scala" height="40"/> </a>
 </p>
 
 <div align="center">
