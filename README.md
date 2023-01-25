@@ -76,7 +76,7 @@
 <!--  Carbon  -->
   <a href="https://github.com/carbon-language/carbon-lang" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" alt="Carbon" height="35"/> </a>
 <!--  Hadoop  -->
-  <a href="https://github.com/apache/hadoop" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" height="35"/> </a>
+  <a href="https://github.com/apache/hadoop" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="Hadoop" height="35"/> </a>
 <!--  Spark  -->
   <a href="https://github.com/apache/spark" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" height="35"/> </a>
 <!--  Scala  -->
