@@ -16,8 +16,10 @@
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Lenguajes y tecnologías (presente):</h3>
   <p align="center"> 
+    <!--  python  -->
+      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <!--  Cfx.re  -->
-      <a href="https://fivem.net/" target="_blank"> <img src="https://img.icons8.com/color/512/fivem.png" alt="FiveM" width="40" height="40"/> </a>  
+      <a href="https://github.com/citizenfx/fivem" target="_blank"> <img src="https://img.icons8.com/color/512/fivem.png" alt="FiveM" width="40" height="40"/> </a>  
     <!--  Lua  -->
       <a href="https://www.lua.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="Lua" width="40" height="40"/> </a>  
     <!--  JavaScript & Node.js  -->
@@ -60,8 +62,6 @@
 </p>
 <h3 align="center"><b>Lenguajes y tecnologías (iniciando/futuro):</h3>
   <p align="center"> 
-    <!--  python  -->
-      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
     <!--  React  -->
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
     <!--  GraphQL  -->
