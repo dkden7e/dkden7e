@@ -53,8 +53,10 @@
       <a href="https://bitcoin.org/" target="_blank"> <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=023" alt="BTC" width="40" height="40"/> </a> 
     <!--  Hashgraph  -->
       <a href="https://www.hedera.com/" target="_blank"> <img src="https://cryptologos.cc/logos/hedera-hbar-logo.svg?v=023" alt="HBAR" width="40" height="40"/> </a>    <br>
-    <!--  Stable Diffusion  -->
-      <a href="https://github.com/Stability-AI/stablediffusion" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8dc9b0a1-fa45-4be7-924d-5a9031e11886/StabilityAi_Logo_White-19.png?format=40w" alt="Stable Diffusion by Stability.ai" height="15"/> </a>
+<!--     <!--  Stable Diffusion  -->
+      <a href="https://github.com/Stability-AI/stablediffusion" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/8dc9b0a1-fa45-4be7-924d-5a9031e11886/StabilityAi_Logo_White-19.png?format=40w" alt="Stable Diffusion by Stability.ai" height="15"/> </a> -->
+        <!--  Solidity  -->
+      <a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" height="15"/> </a>
 </p>
 <h3 align="center"><b>Lenguajes y tecnologías (iniciando/futuro):</h3>
   <p align="center"> 
