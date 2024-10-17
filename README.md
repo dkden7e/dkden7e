@@ -12,7 +12,7 @@
   <a href="https://github.com/dkden7e" target="_blank"><img src="https://img.shields.io/badge/Github-@dkden7e-%23181717?logo=github&style=for-the-badge" alt="Github"></a>
   </div>
 </p>
-<!-- test -->
+
 [comment]: <> (Links to programming languages)
 <h3 align="center"><b>Lenguajes y tecnologías (presente):</h3>
   <p align="center"> 
